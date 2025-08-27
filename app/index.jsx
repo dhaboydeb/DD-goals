@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const Home = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>DD G O A L S</Text>
+      <Text style={styles.title}>D A V E G O A L S</Text>
       <Link style={styles.link} href="/goals">
         View Your Goals
       </Link>
