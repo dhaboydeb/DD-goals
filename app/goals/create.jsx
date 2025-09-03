@@ -25,7 +25,7 @@ const Create = () => {
 
       <TextInput
         style={styles.input}
-        placeholder="What do you want to do?"
+        placeholder="What do u want to do?"
         value={goal}
         onChangeText={setGoal}
       />
@@ -44,7 +44,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: "center",
     justifyContent: "center",
-     backgroundColor: "#896C6C"
+    backgroundColor: "#896C6C",
   },
   title: {
     fontSize: 24,
